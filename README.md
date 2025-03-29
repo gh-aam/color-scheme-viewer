@@ -27,8 +27,8 @@ Contributions are welcome! If you'd like to contribute:
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/gh-aam/color-scheme-viewer/blob/main/LICENSE).
 
 ## Acknowledgements
-- **Inspiration:** Thanks to the developers and designers who inspired this project. Also many thanks to [Randy Connolly](https://www.randyconnolly.com/) for the `API` support and JavaScript lessons (`FWD`, 3rd Edition).
+- **Inspiration:** Thanks to the developers and designers who inspired this project. Also many thanks to [Randy Connolly](https://www.randyconnolly.com/) for the `API` support and JavaScript lessons ([FWD, 3rd Edition](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-web-development/P200000003214/9780136792857)).
 - **Community:** Gratitude to the open-source community for providing invaluable tools and support.
